@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="AccountTool.jar"/>
+	<classpathentry kind="lib" path="data/saves/characters/Economy checker.jar"/>
+	<classpathentry kind="lib" path="Economy checker.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/motiservice-api-1-0-2.jar"/>
+	<classpathentry kind="lib" path="lib/Motivote-server.jar"/>
+	<classpathentry kind="lib" path="lib/mvgate3.jar"/>
+	<classpathentry kind="lib" path="lib/mysql.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.5.8.Final.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
